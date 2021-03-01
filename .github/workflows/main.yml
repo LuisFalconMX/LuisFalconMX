@@ -13,9 +13,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.REPOSITORY_TOKEN }}
+          # REPOSITORY_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.REPOSITORY_TOKEN }}
 
           # Options
           user: luisfalconmx
