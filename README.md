@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/luisfalconmx?template=classic&languages=1&gists=1&followup=1&posts=1&languages.ignored=liquid&languages.colors=github&languages.threshold=0%25&posts.source=hashnode&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=America%2FMexico_City)
+![Metrics](https://github.com/luisfalconmx/luisfalconmx/blob/main/github-metrics.svg)
